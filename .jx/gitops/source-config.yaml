@@ -8,6 +8,7 @@ spec:
     provider: https://github.com
     providerKind: github
     repositories:
+    - name: jenkins-x-php-helloworld
     - name: jenkins-x-php-tutorial
     scheduler: in-repo
   slack:
