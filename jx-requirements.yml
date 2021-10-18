@@ -20,8 +20,6 @@ spec:
   - key: production
   ingress:
     domain: 192.168.99.101.nip.io
-    customHosts:
-      hook: "6b62-36-68-13-67.ngrok.io"
     kind: ingress
     namespaceSubDomain: -jx.
     tls:
